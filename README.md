@@ -1,5 +1,5 @@
 # Online-Resources-Learning-Log
-## Sharing what I learnt from YouTube,Claude and Google AI 
+## Sharing what I learnt from YouTube,Chatgpt,Claude and Google AI 
 
 #### YOUTUBE
 #### VIDEO 1 - Incident Response to Phishing
@@ -47,3 +47,13 @@ Proper handling of user input (XSS mitigated)
 
 # Takeaway: 
 Focused on understanding how the application works before testing it. Identified entry points, interacted with them directly, and analyzed responses to determine where controls fail and where they hold.
+## Screenshots
+<img width="720" height="1600" alt="Screenshot_2026-08-29-10-46-57-418_com android chrome" src="https://github.com/user-attachments/assets/e3969425-ffe2-4351-9aab-ed6c60fcd368" />
+<img width="720" height="1600" alt="Screenshot_2026-08-29-10-39-39-367_com termux" src="https://github.com/user-attachments/assets/04c1f459-6dc6-417e-9553-849fd30a7f7c" />
+<img width="720" height="1600" alt="Screenshot_2026-08-29-10-48-09-442_com android chrome" src="https://github.com/user-attachments/assets/32f0be67-ad4f-484f-abc3-d369f555dfc8" />
+<img width="720" height="1600" alt="Screenshot_2026-08-29-11-57-12-302_com android chrome" src="https://github.com/user-attachments/assets/909eea71-73cb-4006-ae7f-cfb0542ea9e4" />
+<img width="720" height="1600" alt="Screenshot_2026-08-29-11-57-07-120_com android chrome" src="https://github.com/user-attachments/assets/0653bdcb-74cf-4965-b8d1-0b40e122b7bc" />
+<img width="720" height="1600" alt="Screenshot_2026-08-29-11-56-15-328_com android chrome" src="https://github.com/user-attachments/assets/344898e3-8f24-4087-8779-d47d35d490f0" />
+
+
+
